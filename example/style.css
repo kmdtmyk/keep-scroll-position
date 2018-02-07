@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+}
+
+.sidebar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 10rem;
+  overflow-y: scroll;
+}
+
+.sidebar li{
+  padding: 0.5rem;
+}
+
+.main{
+  margin-left: 10rem;
+  padding: 1rem;
+}
